@@ -1,3 +1,7 @@
+'''
+Client code
+'''
+
 import socket
 
 HEADER = 64 
